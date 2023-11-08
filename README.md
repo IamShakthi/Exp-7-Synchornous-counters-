@@ -1,7 +1,3 @@
-```
-NAME : S.JAIGANESH
-REGISTER NO : 212222240037
-```
 # Exp-6-SYNCHORNOUS-COUNTERS - UP COUNTER AND DOWN COUNTER 
 ### AIM: 
 To implement 4 bit up and down counters and validate  functionality.
